@@ -28,3 +28,12 @@ The R script called run_analysis.R does the following.
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 <b> Avg_table.txt </b> is the table with the average of each variable for each activity and each subject. 
+
+## How to run the script?
+
+<b> Step 1: </b> Extract the folder 'UCI HAR Dataset' from the zipped folder downloaded from the site mentioned below:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+<b> Step 2: </b> Run the run_analysis.R code shared in this repository to combine the test and training set and it extracts only the measurements on the mean and standard deviation for each measurement. (Refer to the script for how the script runs)
+
+</b> Step 3: </b> Export the 'Avg_table.txt' using the script above to get tidy data set with the average of each variable for each activity and each subject
