@@ -2,7 +2,7 @@
 # I have placed the zipped folder on Desktop and extracted it there
 # In case you place it somewhere else, please change the working directories accordingly
 
-#Set the working directory as desktop
+#Set the working directory as folder 'UCI HAR Dataset' on the desktop
 #And read the files in the folder 'UCI HAR Dataset'
 
 setwd("~/Desktop/UCI HAR Dataset")
