@@ -64,3 +64,7 @@ Avg_table <- Combine_data_set %>%
   group_by(subject_id,activity) %>%
   summarise_each(funs(mean(., na.rm=TRUE)))
 
+#Export the tidy data set to your desktop folder
+
+setwd("~/Desktop/UCI HAR Dataset")
+write.table(Avg_table, "Avg_table.txt", sep="\t")
