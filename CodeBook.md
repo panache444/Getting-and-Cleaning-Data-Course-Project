@@ -3,7 +3,7 @@
 Step 1: Extract the folder 'UCI HAR Dataset' from the zipped folder downloaded from the site mentioned below:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Step 2: Run the run_analysis.R code shared in this repository to combine the test and training set
+Step 2: Run the run_analysis.R code shared in this repository to combine the test and training set and it extracts only the measurements on the mean and standard deviation for each measurement.
 
 Step 3: Export the 'Avg_table.txt' using the script above to get tidy data set with the average of each variable for each activity and each subject
 
