@@ -1,3 +1,5 @@
+# Variables and Summaries for Avg_table.txt which contains the average of each feature selection variable for each activity and each subject
+
 Step 1: Extract the folder 'UCI HAR Dataset' from the zipped folder downloaded from the site mentioned below:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
