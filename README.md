@@ -36,4 +36,4 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 <b> Step 2: </b> Run the run_analysis.R code shared in this repository to combine the test and training set and it extracts only the measurements on the mean and standard deviation for each measurement. (Refer to the script for how the script runs)
 
-</b> Step 3: </b> Export the 'Avg_table.txt' using the script above to get tidy data set with the average of each variable for each activity and each subject
+<b> Step 3: </b> Export the 'Avg_table.txt' using the script above to get tidy data set with the average of each variable for each activity and each subject
